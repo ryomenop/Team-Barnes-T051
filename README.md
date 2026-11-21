@@ -43,11 +43,5 @@ All demo and dummy accounts have been purged. The system starts with **one singl
 
 ---
 
-## 🚀 How to Run the Project
 
-```powershell
-cd "C:\Users\subha\.gemini\antigravity\scratch\campuscare-ai"
-npm run dev
-```
 
-Open `http://localhost:5173` in your browser. You will be greeted directly by the **Sign In** screen.
